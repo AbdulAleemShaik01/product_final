@@ -1,0 +1,7 @@
+organization=abdulaleemshaik01
+projectKey=AbdulAleemShaik01_product_final
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=AbdulAleemShaik01_product_final
+ceTaskId=AXK89A1w__OhXPWk3N3C
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXK89A1w__OhXPWk3N3C
